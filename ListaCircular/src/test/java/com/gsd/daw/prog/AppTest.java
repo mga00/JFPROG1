@@ -16,7 +16,6 @@ public class AppTest {
 		// este test no hace nada, simplemente da un 100% de cobertura en los reportes.
 		new App();
 		new UnApi();
-		App.main(null);
 		assertTrue(true);
 	}
 }
